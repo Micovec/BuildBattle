@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.graymadness:minigame_api:1.3-pre">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/graymadness/minigame_api/1.3-pre/minigame_api-1.3-pre.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/graymadness/minigame_api/1.3-pre/minigame_api-1.3-pre-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/graymadness/minigame_api/1.3-pre/minigame_api-1.3-pre-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

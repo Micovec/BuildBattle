@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Build Battle:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee74d460-d0c9-4105-a21c-891dc2de0c90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXh7Iip9cVNa3YOQbWU90m3tPq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.15.2-R0.1-SNAPSHOT/spigot-1.15.2-R0.1-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39027983" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cz.minebreak.mico.build_battle.scoreboard" />
+      <recent name="cz.minebreak.mico.build_battle.item.nbt" />
+      <recent name="cz.minebreak.mico.build_battle.item" />
+      <recent name="cz.minebreak.mico.build_battle.section" />
+      <recent name="cz.minebreak.mico.build_battle.time" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.build_battle [package]">
+    <configuration name="Build Battle build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="build_battle [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.build_battle [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee74d460-d0c9-4105-a21c-891dc2de0c90" name="Default Changelist" comment="" />
+      <created>1584991180765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584991180765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="233" key="#Project_Structure" timestamp="1585558133824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="233" key="#Project_Structure/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585558133824" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1585578796560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585578796560" />
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584991439293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584991439293" />
+    <state x="777" y="222" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1584992391761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="222" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584992391761" />
+    <state x="756" y="379" width="475" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585574163872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="475" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585574163872" />
+    <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585582150319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="113" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585582150319" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585559316204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585559316204" />
+    <state x="676" y="261" key="FileChooserDialogImpl" timestamp="1585558129673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="261" key="FileChooserDialogImpl/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585558129673" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585086175859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585086175859" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585086175858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585086175858" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585086175858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585086175858" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585086175858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585086175858" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1585175818787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585175818787" />
+    <state x="625" y="218" key="NewModule_or_Project.wizard" timestamp="1584991926035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="218" key="NewModule_or_Project.wizard/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584991926035" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1585084396986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585084396986" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585566102068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585566102068" />
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584991786480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1584991786480" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585424838135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1585424838135" />
+  </component>
+</project>

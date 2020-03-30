@@ -1,0 +1,13 @@
+name: Build_Battle
+version: ${project.version}
+main: cz.minebreak.mico.build_battle.BuildBattle
+api-version: 1.13
+
+commands:
+  buildbattle:
+    usage: "Usage: /buildbattle help"
+    description: Shows Build Battle help menu
+    permission: buildbattle
+permissions:
+  buildbattle.*:
+    default: op

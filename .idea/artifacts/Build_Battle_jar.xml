@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Build Battle:jar">
+    <output-path>$USER_HOME$/Documents/Minecraft plugins/MineBreak/Build battle/plugins</output-path>
+    <root id="archive" name="Build Battle.jar">
+      <element id="module-output" name="Build Battle" />
+    </root>
+  </artifact>
+</component>
